@@ -17,3 +17,11 @@
 #### You can use this app to learn about the flora of your target destination, 
 #### and plan accordingly. Perhaps you may even base
 #### your destination itself around this info. 
+
+#### I plan to use the trefle.io API to gather plant data, 
+#### and possibly the wikipedia API to collect more information
+#### on various plant species. I will use these in collaboration with
+#### a TBD location API, in order to connect species with location. 
+#### The MVP will need to have basic taxonomical info on plants 
+#### based on location. Post-MVP additional features will be to include
+#### more detailed info for each species and varieties, and 
