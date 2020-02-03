@@ -13,6 +13,7 @@
 #### and are poisonous. There will probably also be an "undetermined" category for those
 #### without enough information in that regard, which will also be distinctly recommended to avoid
 #### eating. 
-### Planning a trip to a different climate? You can use this app to learn about the
-#### flora of your target destination, and plan accordingly. Perhaps you may even base
+### Planning a trip to a different climate? 
+#### You can use this app to learn about the flora of your target destination, 
+#### and plan accordingly. Perhaps you may even base
 #### your destination itself around this info. 
