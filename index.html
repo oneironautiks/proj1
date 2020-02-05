@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Arboreta</title>
+  <link href="https://fonts.googleapis.com/css?family=Kelly+Slab&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script defer src="main.js"></script>
@@ -13,17 +15,37 @@
 
 <body>
   <header>
-    <h1>New York City Tree Finder</h1>
-    <label for="site-search">Search the site:</label>
-    <input type="search" class="site-search">
-    <button>Search</button>
+    <div class="title">
+      <h1>New York City Tree Finder</h1>
+    </div>
+    <nav>
+      <a href="#">About</a>
+      <a href="#">Find a tree</a>
+      <a href="#">Contact Us</a>
+      <a href="#">Add a tree</a>
+    </nav>
   </header>
-  <main>
-    <h3>Search through the 600,000+ trees of New York City...</h3>
-  </main>
-  <footer>
+  <div id="griddle">
+    <main>
+      <h2>Search tree by species, location, health status, etc</h2>
+      <!-- <div id="searchbar">
+      <label for="site-search">Search through the 600,000+ trees of New York City...</label>
+      <input type="search" class="site-search" id="mud">
+      <button class="site-search">Search</button>
+    </div> -->
+      <p>
 
-  </footer>
+      </p>
+    </main>
+    <aside id="searchbar">
+      <label for="site-search">Search through the 600,000+ trees of New York City...</label>
+      <input type="search" class="site-search" id="mud">
+      <button class="site-search">Search</button>
+    </aside>
+    <footer>
+
+    </footer>
+  </div>
 </body>
 
 </html>
